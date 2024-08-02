@@ -19,13 +19,7 @@ const getProduct = async (req, res) => {
   }
 };
 
-/**
- * It creates a new product using the data from the request body and returns the created product in the
- * response.
- * @param req - The request object. This object represents the HTTP request and has properties for the
- * request query string, parameters, body, HTTP headers, and so on.
- * @param res - The response object.
- */
+
 const createProduct = async (req, res) => {
   try {
     const product = await Sample.create(req.body);
