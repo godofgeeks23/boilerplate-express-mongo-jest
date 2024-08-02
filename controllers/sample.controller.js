@@ -9,7 +9,6 @@ const getProducts = async (req, res) => {
   }
 };
 
-
 const getProduct = async (req, res) => {
   try {
     const product = await Sample.findById(req.params.id);
@@ -19,7 +18,6 @@ const getProduct = async (req, res) => {
   }
 };
 
-
 const createProduct = async (req, res) => {
   try {
     const product = await Sample.create(req.body);
@@ -28,7 +26,6 @@ const createProduct = async (req, res) => {
     res.status(500).json(error);
   }
 };
-
 
 const updateProduct = async (req, res) => {
   try {
@@ -40,7 +37,6 @@ const updateProduct = async (req, res) => {
     res.status(500).json(error);
   }
 };
-
 
 const deleteProduct = async (req, res) => {
   try {
