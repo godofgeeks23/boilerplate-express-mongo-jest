@@ -41,12 +41,7 @@ const updateProduct = async (req, res) => {
   }
 };
 
-/**
- * It finds a product by its id and deletes it.
- * @param req - The request object. This object represents the HTTP request and has properties for the
- * request query string, parameters, body, HTTP headers, and so on.
- * @param res - The response object.
- */
+
 const deleteProduct = async (req, res) => {
   try {
     const product = await Sample.findByIdAndDelete(req.params.id);
