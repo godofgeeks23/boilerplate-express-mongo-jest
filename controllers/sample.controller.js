@@ -9,12 +9,7 @@ const getProducts = async (req, res) => {
   }
 };
 
-/**
- * It's an asynchronous function that uses the Product model to find a product by its id, and then
- * sends a response with the product's data.
- * @param req - The request object.
- * @param res - The response object.
- */
+
 const getProduct = async (req, res) => {
   try {
     const product = await Sample.findById(req.params.id);
