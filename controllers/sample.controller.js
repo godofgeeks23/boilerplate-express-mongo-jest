@@ -29,13 +29,7 @@ const createProduct = async (req, res) => {
   }
 };
 
-/**
- * It takes the id of the product to be updated from the request params, and the updated product data
- * from the request body, and then updates the product in the database with the new data, and returns
- * the updated product to the client.
- * @param req - The request object.
- * @param res - The response object.
- */
+
 const updateProduct = async (req, res) => {
   try {
     const product = await Sample.findByIdAndUpdate(req.params.id, req.body, {
