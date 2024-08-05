@@ -1,5 +1,4 @@
 const express = require("express");
-
 const SampleRoutes = require("./routes/sample.route");
 const app = express();
 
