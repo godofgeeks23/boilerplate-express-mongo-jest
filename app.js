@@ -1,7 +1,6 @@
 const express = require("express");
 
 const SampleRoutes = require("./routes/sample.route");
-
 const app = express();
 
 /* A middleware that parses the body of the request and makes it available in the req.body object. */
