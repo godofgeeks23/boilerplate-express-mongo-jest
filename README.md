@@ -7,7 +7,7 @@ This is a boilerplate for an Express server with MongoDB and Jest for testing.
 1. Clone the repository
 
 ```
-git clone [text](https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git)
+git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 ```
 
 2. Run `npm install` to install the dependencies
