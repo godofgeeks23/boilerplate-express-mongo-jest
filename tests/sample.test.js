@@ -4,17 +4,17 @@ const app = require("../app");
 
 require("dotenv").config();
 
-/* Connecting to the database before each test. */
+// Connecting to the database before each test.
 beforeEach(async () => {
   await mongoose.connect(process.env.MONGODB_URI);
 });
 
-/* Dropping the database and closing connection after each test. */
+// Dropping the database and closing connection after each test.
 afterEach(async () => {
   await mongoose.connection.close();
 });
 
-/* Testing the API endpoints. */
+// Testing the API endpoints.
 describe("GET /api/products", () => {
   it("should return all products", async () => {
     const res = await request(app).get("/api/products");
