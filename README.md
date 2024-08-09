@@ -16,4 +16,3 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 4. Run `npm test` to run the tests
 
 ## License
-
