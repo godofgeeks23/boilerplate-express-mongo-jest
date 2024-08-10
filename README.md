@@ -26,5 +26,6 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 ├── routes
 │   └── sample.route.js
 ├── tests
+│   └── sample.test.js
 
 ```
