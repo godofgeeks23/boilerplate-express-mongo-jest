@@ -21,5 +21,6 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 .
 ├── controllers
 │   └── sample.controller.js
+├── models
 
 ```
