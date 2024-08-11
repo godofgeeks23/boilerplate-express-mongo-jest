@@ -29,7 +29,7 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 │   └── sample.test.js
 ├── app.js
 ├── server.js
-└── package.json
+├── package.json
 └── README.md
 └── .env
 ```
