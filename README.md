@@ -30,6 +30,6 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 ├── app.js
 ├── server.js
 ├── package.json
-└── README.md
+├── README.md
 └── .env
 ```
