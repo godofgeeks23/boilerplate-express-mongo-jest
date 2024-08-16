@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 5000;
 
 require("dotenv").config();
 
-// Connecting to the database and then starting the server.
+// Connecting to the database and then starting the API server.
 mongoose
   .connect(process.env.MONGODB_URI)
   .then(() => {
