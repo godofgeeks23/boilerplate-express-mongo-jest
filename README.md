@@ -15,7 +15,7 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 3. Run `npm run dev` to start the server
 4. Run `npm test` to run the tests
 
-## Project structure
+## Project structure for reference
 
 ```
 .
