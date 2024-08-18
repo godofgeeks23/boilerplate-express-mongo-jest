@@ -37,6 +37,7 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 Description of the files and folders:
 
 - `controllers`: Contains the controllers for the routes
+- `models`: Contains the models for the MongoDB collections
 
 ## Note
 
