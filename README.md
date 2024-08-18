@@ -40,6 +40,7 @@ Description of the files and folders:
 - `models`: Contains the models for the MongoDB collections
 - `routes`: Contains the routes for the server
 - `tests`: Contains the tests for the server
+- `app.js`: Main file for the server
 
 ## Note
 
