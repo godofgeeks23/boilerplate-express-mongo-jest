@@ -41,6 +41,7 @@ Description of the files and folders:
 - `routes`: Contains the routes for the server
 - `tests`: Contains the tests for the server
 - `app.js`: Main file for the server
+- `server.js`: File to start the server
 
 ## Note
 
