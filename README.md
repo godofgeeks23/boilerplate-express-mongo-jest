@@ -42,6 +42,7 @@ Description of the files and folders:
 - `tests`: Contains the tests for the server
 - `app.js`: Main file for the server
 - `server.js`: File to start the server
+- `package.json`: Contains the dependencies and scripts
 
 ## Note
 
