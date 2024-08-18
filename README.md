@@ -39,6 +39,7 @@ Description of the files and folders:
 - `controllers`: Contains the controllers for the routes
 - `models`: Contains the models for the MongoDB collections
 - `routes`: Contains the routes for the server
+- `tests`: Contains the tests for the server
 
 ## Note
 
