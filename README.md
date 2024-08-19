@@ -44,6 +44,7 @@ Description of the files and folders:
 - `server.js`: File to start the server
 - `package.json`: Contains the dependencies and scripts
 - `.env`: Contains the environment variables
+- `sample.env`: Sample environment file
 
 ## Note
 
