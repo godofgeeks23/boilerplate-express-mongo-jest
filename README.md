@@ -43,7 +43,6 @@ Description of the files and folders:
 - `app.js`: Main file for the server
 - `server.js`: File to start the server
 - `package.json`: Contains the dependencies and scripts
-
 - `.env`: Contains the environment variables
 
 ## Note
