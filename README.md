@@ -47,6 +47,6 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 - `.env`: Contains the environment variables
 - `sample.env`: Sample environment file
 
-## Note
+## NOTE
 
 - The server is running on port 3000 by default. You can change it in the `app.js` file.
