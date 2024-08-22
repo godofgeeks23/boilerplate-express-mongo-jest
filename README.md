@@ -53,4 +53,4 @@ git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 
 ## NOTE:
 
-- The server is running on port 3000 by default. You can change it in the `.env` file.
+- The server runs on port 3000 by default. You can change it in the `.env` file.
