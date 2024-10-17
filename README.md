@@ -27,14 +27,14 @@ npm install
 ## Project structure for reference
 
 ```
-.
-├── controllers
+./
+├── controllers/
 │   └── sample.controller.js
-├── models
+├── models/
 │   └── sample.model.js
-├── routes
+├── routes/
 │   └── sample.route.js
-├── tests
+├── tests/
 │   └── sample.test.js
 ├── app.js
 ├── server.js
