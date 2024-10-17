@@ -1,6 +1,6 @@
 # Express Mongo Jest boilerplate
 
-Boilerplate code for an Express server with MongoDB and Jest setup (for testing) - for getting started quickly.
+Boilerplate code for an Express server + MongoDB + Jest setup (for testing) - for getting started quickly.
 
 ![image](https://github.com/user-attachments/assets/a8534ce2-eac9-4ee3-a237-f5912936525b)
 
