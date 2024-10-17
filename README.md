@@ -20,7 +20,7 @@ cd boilerplate-express-mongo-jest
 npm install
 ```
 
-3. Run `npm run dev` to start the server
+3. Run `npm run dev` to start the server in development mode
 4. Run `npm test` to run the tests
 
 
