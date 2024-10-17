@@ -13,7 +13,12 @@ Boilerplate code for an Express server + MongoDB + Jest setup (for testing) - fo
 git clone https://github.com/godofgeeks23/boilerplate-express-mongo-jest.git
 ```
 
-2. Run `npm install` to install the dependencies
+2. Install the dependencies
+
+```
+cd boilerplate-express-mongo-jest
+npm install
+```
 
 3. Run `npm run dev` to start the server
 4. Run `npm test` to run the tests
