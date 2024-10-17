@@ -21,7 +21,7 @@ npm install
 ```
 
 3. Run `npm run dev` to start the server in development mode
-4. Run `npm test` to run the tests
+4. Run `npm test` to run the test suite
 
 
 ## Project structure for reference
