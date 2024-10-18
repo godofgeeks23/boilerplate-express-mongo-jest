@@ -52,7 +52,7 @@ npm install
 - `tests`: Contains the tests for the app
 - `app.js`: Main file for the server
 - `server.js`: File to start the server (entrypoint)
-- `package.json`: Contains the dependencies and scripts
+- `package.json`: Contains the dependencies and scripts - for a node project
 - `package-lock.json`: Contains the dependencies and their versions
 - `.env`: Contains the environment variables
 - `sample.env`: Sample environment file
