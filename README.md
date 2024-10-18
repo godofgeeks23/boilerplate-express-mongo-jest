@@ -47,7 +47,7 @@ npm install
 ## Description of the files and folders:
 
 - `controllers`: Contains the logic for the routes
-- `models`: Contains the models for the MongoDB collections
+- `models`: Contains the database schema models for the MongoDB collections
 - `routes`: Contains the routes for the server
 - `tests`: Contains the tests for the server
 - `app.js`: Main file for the server
