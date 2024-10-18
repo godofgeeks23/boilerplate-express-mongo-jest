@@ -48,7 +48,7 @@ npm install
 
 - `controllers`: Contains the logic for the routes
 - `models`: Contains the database schema models for the MongoDB collections
-- `routes`: Contains the routes for the server
+- `routes`: Contains the POST API routes for the server
 - `tests`: Contains the tests for the server
 - `app.js`: Main file for the server
 - `server.js`: File to start the server
