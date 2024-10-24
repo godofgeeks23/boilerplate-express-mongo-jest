@@ -2,7 +2,7 @@ const express = require("express");
 const SampleRoutes = require("./routes/sample.route");
 const app = express();
 
-// A middleware that parses the body of the request and makes it available in the req.body object.
+// middleware that parses the body of the request and makes it available in the req.body object.
 app.use(express.json());
 
 // root route. Used to check if the server is running.
