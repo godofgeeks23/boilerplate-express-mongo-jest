@@ -17,4 +17,4 @@ const sampleSchema = new Schema(
   { timestamps: true }
 );
 
-module.exports = mongoose.model("Sample", sampleSchema);
+module.exports = mongoose.model("Samples", sampleSchema);
